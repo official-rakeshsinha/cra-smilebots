@@ -1,16 +1,15 @@
 {
-  "name": "cra-template-smilebots",
-  "version": "0.3.4",
+  "name": "cra-template-over-react",
+  "version": "0.1.1",
   "keywords": [
     "react",
     "create-react-app",
     "template",
     "smilebots"
   ],
-  "description": "The base template for Create React App customised for SmileBots.",
-  "author": "Harshit Agrawal",
+  "description": "The base template for Create React App customised for React-Developer.",
+  "author": "Yuv Sinha",
   "main": "template.json",
-
   "license": "MIT",
   "engines": {
     "node": ">=8"
